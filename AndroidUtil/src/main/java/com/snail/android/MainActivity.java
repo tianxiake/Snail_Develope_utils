@@ -1,4 +1,4 @@
-package com.snail.snail_develope_utils;
+package com.snail.android;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

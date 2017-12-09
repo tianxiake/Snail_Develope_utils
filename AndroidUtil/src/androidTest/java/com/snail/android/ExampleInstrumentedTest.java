@@ -1,4 +1,4 @@
-package com.snail.snail_develope_utils;
+package com.snail.android;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
