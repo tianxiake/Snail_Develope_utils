@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidUtil/AndroidUtil.iml" filepath="$PROJECT_DIR$/AndroidUtil/AndroidUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaUtil/JavaUtil.iml" filepath="$PROJECT_DIR$/JavaUtil/JavaUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/Snail_Develope_utils.iml" filepath="$PROJECT_DIR$/Snail_Develope_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectioncode/collectioncode.iml" filepath="$PROJECT_DIR$/collectioncode/collectioncode.iml" />
     </modules>
   </component>
 </project>

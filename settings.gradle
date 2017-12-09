@@ -1,1 +1,1 @@
-include ':AndroidUtil', ':JavaUtil'
+include ':AndroidUtil', ':JavaUtil', ':collectioncode'
